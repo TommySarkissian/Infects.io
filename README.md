@@ -24,6 +24,8 @@ infects.io is a thrilling multiplayer game where one player starts as an infecte
 
 ## Screenshots
 
+![Logo](https://i.imgur.com/DGOTOPH.jpeg)
+
 ![Main Menu](https://i.imgur.com/f7G5rwD.png)
 
 ![Survivor Gameplay](https://i.imgur.com/aeXFtYw.png)
