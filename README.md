@@ -1,6 +1,6 @@
-# infects.io
+# ![Logo](https://i.imgur.com/DGOTOPH.jpeg)
 
-infects.io is a thrilling multiplayer game where one player starts as an infected (a zombie), and the others must run away to avoid becoming infected. The game features a variety of power-ups scattered across the board to keep the gameplay engaging and dynamic.
+Infects.io is a thrilling multiplayer game where one player starts as an infected (a zombie), and the others must run away to avoid becoming infected. The game features a variety of power-ups scattered across the board to keep the gameplay engaging and dynamic.
 
 ## Features
 
@@ -23,8 +23,6 @@ infects.io is a thrilling multiplayer game where one player starts as an infecte
 5. **Zombie Speed**: Increases the speed of the infected player.
 
 ## Screenshots
-
-![Logo](https://i.imgur.com/DGOTOPH.jpeg)
 
 ![Main Menu](https://i.imgur.com/f7G5rwD.png)
 
