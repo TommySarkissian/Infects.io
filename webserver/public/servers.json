@@ -1,0 +1,15 @@
+{
+"OC" :
+{
+  "host": "localhost"
+},
+"AS" : {
+  "host": "localhost"
+},
+"NA" : {
+  "host": "localhost"
+},
+"EU" : {
+  "host": "localhost"
+}
+}

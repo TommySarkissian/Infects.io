@@ -1,0 +1,29 @@
+{
+  "name": "infects-io-gameserver",
+  "version": "1.0.0",
+  "description": "Gameserver for infects.io, a multiplayer game where players must escape from the infected.",
+  "keywords": [
+    "infects.io",
+    "multiplayer",
+    "game",
+    "gameserver",
+    "zombie",
+    "escape",
+    "real-time",
+    "online-game",
+    "nodejs",
+    "socket.io"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tommy Sarkissian",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hashmap": "^2.0.6",
+    "jquery": "^3.5.0",
+    "socket.io": "^3.1.0"
+  }
+}
