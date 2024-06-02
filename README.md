@@ -6,7 +6,7 @@ Infects.io is a thrilling multiplayer game where one player starts as an infecte
 
 - **Multiplayer Gameplay**: Experience real-time multiplayer action where one player becomes the infected, and the others must escape.
 - **Mobile Support**: Enjoy a fully responsive design with joystick support for mobile devices.
-- **Service Workers**: Leverage service workers for offline support and enhanced performance.
+- **Service Workers**: Leverage service workers for enhanced performance.
 - **HTTPS Security**: Ensure secure communication between the client and server with HTTPS.
 - **SEO Optimized**: Benefit from best practices in SEO, including `manifest.json` and other optimizations for better discoverability in `index.html`
 - **Lobby Links**: Easily copy game lobby links and send them to friends for quick game setup.
