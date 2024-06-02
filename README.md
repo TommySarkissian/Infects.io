@@ -4,7 +4,7 @@ Infects.io is a thrilling multiplayer game where one player starts as an infecte
 
 ## Features
 
-- **Multiplayer Gameplay**: Experience real-time multiplayer action where one player becomes the infected, and the others must escape.
+- **Multiplayer Gameplay**: Experience real-time multiplayer action where one player becomes infected, and the others must escape.
 - **Mobile Support**: Enjoy a fully responsive design with joystick support for mobile devices.
 - **Service Workers**: Leverage service workers for enhanced performance.
 - **HTTPS Security**: Ensure secure communication between the client and server with HTTPS.
@@ -18,8 +18,8 @@ Infects.io is a thrilling multiplayer game where one player starts as an infecte
 
 1. **Speed Boost**: Increases your movement speed for a short duration.
 2. **Invincibility**: Makes you invincible to infections for a limited time.
-3. **Invisibility**: Allows you to become invisible to other players temporarily.
-4. **Giant**: Increases the size of the infected player.,
+3. **Invisibility**: You can temporarily become invisible to other players.
+4. **Giant**: Increases the size of the infected player.
 5. **Zombie Speed**: Increases the speed of the infected player.
 
 ## Screenshots
@@ -97,16 +97,16 @@ To run the game:
 
 ### Updating Service Worker
 
-Whenever an update is made, ensure to modify the `sw.js` file located in `webserver/views` to include the new version number.
+Whenever an update is made, modify the `sw.js` file in `webserver/views` to include the new version number.
 
 ## How to Play
 
 1. **Join a Game**: Enter a username and join a game.
-2. **Avoid the Infected**: If you're a survivor, run away from the infected player.
+2. **Avoid the Infected**: Run away from the infected player if you're a survivor.
 3. **Infect Others**: If you're the infected, chase and infect the survivors.
 4. **Use Power-ups**: Collect power-ups to gain advantages and enhance your gameplay.
 5. **Survive**: The game continues until all players are infected or the time runs out.
 
 ## Contributing
 
-We welcome contributions to improve infects.io! Please fork the repository and submit pull requests.
+We welcome contributions to improve `Infects.io`! Please fork the repository and submit pull requests.
