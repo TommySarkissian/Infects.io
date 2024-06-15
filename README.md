@@ -1,4 +1,4 @@
-# ![Logo](https://i.imgur.com/DGOTOPH.jpeg)
+# <img src="https://i.imgur.com/DGOTOPH.jpeg" alt="Logo" width="100%">
 
 Infects.io is a thrilling multiplayer game where one player starts as an infected (a zombie), and the others must run away to avoid becoming infected. The game features a variety of power-ups scattered across the board to keep the gameplay engaging and dynamic.
 
